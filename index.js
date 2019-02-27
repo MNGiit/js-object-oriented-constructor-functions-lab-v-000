@@ -1,4 +1,4 @@
-
+function Scooter () {}
 
 Scooter constructor
 should create a new scooter with three properties ‣
